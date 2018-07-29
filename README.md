@@ -1,2 +1,2 @@
-# py-streamr-cli
+# Streamr-cli
 Access the Streamr API from python-based environments
